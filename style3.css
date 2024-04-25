@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
-    background-image: url('images/background.png'); /* Add background image */
+    background-image: url('./images/background.png'); /* Add background image */
     background-size: cover;
     background-position: center;
     height: 100vh;
